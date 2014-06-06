@@ -1,1 +1,38 @@
-{}
+{
+    "patientgegevens": {
+        "geslacht": {
+            "selectedChoice": "m"
+        },
+        "datum_van_de_eerste_insulinetoediening": "01/2013",
+        "patient_niss": 84224765,
+        "naam": "Nooijens",
+        "voornaam": "Jelger",
+        "geboortedatum": "01/21/2007",
+        "__comma_dummy": null
+    },
+    "datacollectie": {
+        "algemeen": {
+            "datum_van_de_meest_recente_consultatie": "06/02/2013"
+        },
+        "metingen": {
+            "lengte": {
+                "datum_van_bepaling": "06/02/2013",
+                "__comma_dummy": null
+            },
+            "gewicht": {
+                "datum_van_bepaling": "06/02/2013",
+                "__comma_dummy": null
+            },
+            "systolische_bloeddruk": {
+                "datum_van_bepaling": "06/02/2013",
+                "__comma_dummy": null
+            },
+            "diastolische_bloeddruk": {
+                "datum_van_bepaling": "06/02/2013",
+                "__comma_dummy": null
+            },
+            "insulinedosis_iedag": "17",
+            "__comma_dummy": null
+        }
+    }
+}
